@@ -1,0 +1,17 @@
+# Local task data
+tasks.json
+tasks.json.tmp
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+
+# Local settings and operating-system files
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db

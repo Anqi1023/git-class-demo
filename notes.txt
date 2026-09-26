@@ -1,0 +1,13 @@
+Git and GitHub practice reference
+
+git status                  Check changed files.
+git diff                    Review edits before staging.
+git add main.py README.md    Stage selected source files.
+git diff --cached           Review the staged changes.
+git commit -m "Update demo"  Save a local version.
+git log --oneline            View commit history.
+git push                    Upload committed changes to GitHub.
+git pull --ff-only           Download compatible remote changes.
+
+A commit is local. A push uploads commits to the remote repository.
+Share the repository's web URL for the assignment.
